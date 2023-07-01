@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.frame {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  height: 100px;
+  width: 300px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  font-size: x-large;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+input {
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  font-size: 200px;
+  border-radius: 200px;
+  background-color: black;
+  color: white;
+
+}

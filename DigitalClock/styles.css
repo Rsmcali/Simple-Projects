@@ -1,0 +1,21 @@
+body {
+  background-color: #333;
+}
+
+.clock{
+  border: thick solid green;
+  font-size: 100px;
+  text-align: center;
+  margin: 200px auto;
+  font-family: Arial;
+  color: green;
+  height: 200px;
+  background-color: black;
+  padding-top: 80px;
+  width: 700px;
+  border-radius: 60px;
+}
+
+.clock span {
+  padding: 20px;
+}
