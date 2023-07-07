@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(34,33,38);
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 150px;
+}
+
+button {
+  background-color: transparent;
+  border: solid 3px white;
+  margin-right: 15px;
+  border-radius: 150px;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  margin: 50px;
+}
+
+.s1{
+ color:rgb(231,90,186) ;
+}
+
+.s2 {
+  color: rgb(76,165,252);
+}
+
+.s3 {
+  color: rgb(253,251,106);
+}
+
+.reset {
+  color: white;
+  height: 50px;
+  width: 100px;
+  border-radius: 15px;
+}
+
+.result img {
+  height: 150px;
+  width: 150px;
+}
