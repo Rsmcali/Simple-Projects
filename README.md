@@ -8,3 +8,4 @@
 # Digital Clock
 # Random Generator (0 - 9)
 # Tip Calculator (10%, 15%, and 20%)
+# Rock Paper Scissors 
